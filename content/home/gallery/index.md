@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 66  # Order that this section will appear.
 
-title = "Gallery"
-subtitle = ""
+#title = "Gallery"
+#subtitle = ""
 
 [design.background]
   color = "#eb6333"
