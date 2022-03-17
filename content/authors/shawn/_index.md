@@ -20,8 +20,22 @@ user_groups:
 - Example2
 ---
 
-Shawn Thorn, a Canadian Author, lives in beautiful Vancouver, BC. Shawn began working with children in a daycare setting at the age of fifteen and maintained experience as an elementary teacher, learning and behavioural specialist, youth worker, and twenty-five years later, he has had hands-on experience working with children who have been diagnosed with a variety of pervasive disorders, such as Autism, FASD, ADHD and ODD. 
+Shawn spent his career as a child therapist for the past several decades, focusing on cognitive and behavioural therapy. During this time, Shawn wrote dozens of stories and tucked them away in a vault, until recently. His passion for writing has become his forefront and he is excited about producing more stories. 
 
-​​​​​​​​Shawn has been writing for many years, although it isn't until 2017 that he decided to open his vault and publish his first of many stories, Don't Tease Mr. Beeze. He's enjoying his new journey by visiting multiple elementary schools, bookstores, festivals, and reading to a group of children.
+Shawn Thorn's new book, First of Many, is illustrated by a renowned illustrator, Victor Tavares, who's worked with the likes of Arnold Schwarzenegger, Gary Tubbs and many others. 
 
-He has a love for nature and the outdoors. From canoeing in BC to visiting bird sanctuaries in Delta. 
+Shawn is finishing his first young adult fiction about a group of teens who find a stone that changes their lives forever. With mythological creatures and urban fantasy, the novel takes you on a journey through a series. 
+
+
+# 10 Fun Facts About The Author 
+
+1. Loves to travel, especially to England, Italy, and Mexico 
+2. Has a vizsla dog named Ridley
+3. Loves his cousin Audrey like a daughter
+4. Married to a scientist 
+5. Loves chicken tacos
+6. Plays chess
+7. Favourite animal is an elephant 
+8. Loves to cook 
+9. Dreams of opening a vineyard
+10. Superman is his favourite superhero

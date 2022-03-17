@@ -3,7 +3,7 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 990  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -70,7 +70,7 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [design.background]
-  color = "#eb6333"
+  color = "#F24E29"
   text_color_light = false
 
 
