@@ -8,7 +8,7 @@ weight = 5  # Order that this section will appear.
 title = "Shawn Thorn Children's Author"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "boy.png"
+hero_media = "girl_boy_bee.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.

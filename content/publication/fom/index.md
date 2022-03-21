@@ -59,12 +59,14 @@ First of Many is about a young girl who loses her first tooth. Her excitement ta
 Children usually lose their first tooth around 5 or 6 years old, and their front teeth will often be the first to fall out. This will be the first of many and children will appreciate understanding the developmental process and the importance of dental hygiene, while going on a fun family journey.
 
 
-![](fom-dad1)
+![](fom-dad1.jpg)
 
-![](fom-boy) 
+![](fom-yoga.jpg)
 
-![](fom-brush)
+![](fom-boy.jpg) 
 
-![](fom-place)
+![](fom-brush.jpg)
 
-![](fom-fairy)
+![](fom-place.jpg)
+
+![](fom-fairy.jpg)

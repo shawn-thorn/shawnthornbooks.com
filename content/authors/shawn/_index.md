@@ -7,10 +7,10 @@ role: ""
 # social:
 # - icon: envelope
 #   icon_pack: fas
-#   link: 'mailto:2stepsforward@gmail.com'
-# - icon: phone
-#   icon_pack: fas
-#   link: 'tel:7788684458'
+#   link: 'mailto:info@shawnthornbooks.com'
+# - icon: instagram
+#   icon_pack: fab
+#   link: 'https://shawnthornbooks.com/'
 # organizations:
 # - name: "Phone: 778-868-4458"
 # - name: "Email: 2stepsforward@gmail.com"
