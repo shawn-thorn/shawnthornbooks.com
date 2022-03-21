@@ -21,9 +21,13 @@ publication_short: ""
 # Summary. An optional shortened abstract.
 summary: A young girl loses her first tooth, and she is excited to tell her whole family. Maybe the tooth fairy will come to visit her?
 
-tags:
+#tags:
 #- Source Themes
-featured: false
+#featured: false
+
+links:
+- name: Coming to stores soon!
+#  url: https://www.amazon.com/Dont-Tease-Beeze-Shawn-Thorn/dp/1525515888
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -45,10 +49,24 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+slides: fom
 ---
 
-First of Many is about a young girl who loses her first tooth. Her excitement takes her throughout the day expressing her great news to her family members. Each one has words of wisdom, with a comical insight and a catchy phrase. The story includes the classic, although non-traditional looking tooth fairy. “Good morning, young child, I didn’t mean to wake you; I am taking your tooth that you have left for me. Your tooth is a gem, as I see you have been brushing it well. I hope you brush the tooth that will grow in its place the same. I have left you something to show you how thankful I am.” The tooth fairy said. 
+First of Many is about a young girl who loses her first tooth. Her excitement takes her throughout the day expressing her great news to her family members. Each one has words of wisdom, with a comical insight and a catchy phrase. The story includes the classic, although non-traditional looking tooth fairy. 
 
+> "Good morning, young child, I didn't mean to wake you; I am taking your tooth that you have left for me. Your tooth is a gem, as I see you have been brushing it well. I hope you brush the tooth that will grow in its place the same. I have left you something to show you how thankful I am." The tooth fairy said. 
 
 Children usually lose their first tooth around 5 or 6 years old, and their front teeth will often be the first to fall out. This will be the first of many and children will appreciate understanding the developmental process and the importance of dental hygiene, while going on a fun family journey.
+
+
+![](fom-dad1.png)
+
+![](fom-yoga.png)
+
+![](fom-boy.png) 
+
+![](fom-brush.png)
+
+![](fom-place.png)
+
+![](fom-fairy.png)

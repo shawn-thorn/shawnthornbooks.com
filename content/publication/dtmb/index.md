@@ -21,12 +21,12 @@ publication_short: ""
 # Summary. An optional shortened abstract.
 summary: This anti-bullying story is about a boy who has taunted and teased Mr. Beeze one too many times before the pink bee decides enough is enough.
 
-tags:
-- Source Themes
-featured: false
+#tags:
+#- Source Themes
+#featured: false
 
-#links:
-#- name: Amazon USA
+links:
+- name: Back in stores soon!
 #  url: https://www.amazon.com/Dont-Tease-Beeze-Shawn-Thorn/dp/1525515888
 
 # Featured image
@@ -53,3 +53,15 @@ projects:
 ---
 
 If you enjoy adventure, traveling and the exciting thrill of a chase, you'll love this book. This anti-bullying story is about a boy who has taunted and teased Mr. Beeze one too many times before the pink bee decides enough is enough. Impress the morality of acceptance and principles concerning the distinction between right and wrong, as your child explores the world through the enthusiasm of a chase in this exciting and educational journey. Take your child on an adventure with the peace of mind that they are reading with an eco-friendly and non-toxic book.
+
+**Currently available at the Vancouver Public Library**
+
+![](faster_swifter.jpg)
+
+![](DTMB-9.png)
+
+![](DTMB-21.png)
+
+![](DTMB-29.png)
+
+![](DTMB-31.png)
