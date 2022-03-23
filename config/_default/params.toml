@@ -52,7 +52,7 @@ local_business_type = ""
 org_name = "Shawn Thorn Children's Author"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Educational Children's Books by Shawn Thorn"
+description = "Children's Books by Shawn Thorn"
 
 ############################
 ## Site Features
