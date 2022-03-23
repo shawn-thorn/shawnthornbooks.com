@@ -52,7 +52,7 @@ local_business_type = ""
 org_name = "Shawn Thorn Children's Author"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Educational Children's Book by Shawn Thorn"
+description = "Educational Children's Books by Shawn Thorn"
 
 ############################
 ## Site Features
@@ -93,7 +93,7 @@ privacy_pack = false
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "2stepsforward@gmail.com"
-phone = "778-868-4458"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
