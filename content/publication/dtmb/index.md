@@ -56,9 +56,9 @@ If you enjoy adventure, traveling and the exciting thrill of a chase, you'll lov
 
 **Currently available at the Vancouver Public Library**
 
-![](faster_swifter.jpg)
-
 ![](DTMB-9.png)
+
+![](faster_swifter.jpg)
 
 ![](DTMB-21.png)
 
