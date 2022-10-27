@@ -1,16 +1,16 @@
 ---
 authors:
 - admin
-email: "2stepsforward@gmail.com"
+email: "info@shawnthornbooks.com"
 name: "Shawn Thorn"
 role: ""
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:info@shawnthornbooks.com'
-# - icon: instagram
-#   icon_pack: fab
-#   link: 'https://shawnthornbooks.com/'
+social:
+- icon: instagram
+  icon_pack: fab
+  link: 'https://instagram.com/shawn.thorn/'
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:info@shawnthornbooks.com'
 # organizations:
 # - name: "Phone: 778-868-4458"
 # - name: "Email: 2stepsforward@gmail.com"
