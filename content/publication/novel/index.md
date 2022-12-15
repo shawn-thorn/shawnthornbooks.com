@@ -19,7 +19,7 @@ publication_short: ""
 #abstract: .
 
 # Summary. An optional shortened abstract.
-summary: A young girl loses her first tooth, and she is excited to tell her whole family. Maybe the tooth fairy will come to visit her?
+summary: A group of teens discover a gemstone during a high school camping trip that brings them and their town havoc before they enter a door to a fantasy world.
 
 #tags:
 #- Source Themes
@@ -52,4 +52,4 @@ projects:
 slides: novel
 ---
 
-Shawn's young adult urban and portal fantasy fiction is about a group of teens who discover a gemstone during a highschool camping trip that brings them and their town havoc before they enter a door to a fantasy world. This novel also addresses contemporary topics such as high school, peer pressure, relationships, and coping with the stresses of everyday life in the real world.
+Shawn's young adult urban and portal fantasy fiction is about a group of teens who discover a gemstone during a high school camping trip that brings them and their town havoc before they enter a door to a fantasy world. This novel also addresses contemporary topics such as high school, peer pressure, relationships, and coping with the stresses of everyday life in the real world.
