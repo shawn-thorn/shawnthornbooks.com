@@ -1,16 +1,16 @@
 main:
   - name: Home
-    url: /
+    url: '/'
     weight: 10
   - name: Books
-    url: #publications
+    url: '/#publications'
     weight: 20
   - name: Events
-    url: #events
+    url: '/#events'
     weight: 30
   - name: "About"
-    url: #about
+    url: '/#about'
     weight: 40
-  - name = Contact
-    url = #contact
-    weight = 60
+  - name: Contact
+    url: '/#contact'
+    weight: 60
