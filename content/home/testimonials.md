@@ -29,6 +29,16 @@ height = ""
 
 [[item]]
   title = """
+  First of Many: Clever, creative, and delightful.
+  """
+  content = """
+  First of Many is a fun and exciting way to introduce children to the natural occurrence of losing a tooth. Beautifully illustrated, the book seamlessly weaves in educational facts while subtly providing opportunities for parents to demonstrate acceptance for diverse family structures and non-binary pronouns. Clever, creative, and delightful. Perfect for reading to young children, with enough patterned language to assist early readers in practicing their newly acquired skills.   
+  --Amazon customer
+  """
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+[[item]]
+  title = """
   Don't Tease Mr. Beeze
   """
   content = """

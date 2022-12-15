@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Want to get in touch?"
+title = "Book readings"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "reading_audrey.jpg"
@@ -48,6 +48,14 @@ hero_media = "reading_audrey.jpg"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-<!-- **Shawn loves reading to children. Book a reading today!** -->
+Shawn's visits to schools are one of the most rewarding aspects of being an author. Shawn loves watching young readers connect with the story and the illustrations. 
+
+Typically, Shawn's visits are held in the library or multipurpose room where he reads one or more of his stories to the students. His readings are interactive and engaging. At the end of the reading, Shawn will talk about his writing and illustration experience, why he started writing, and his process. At the end of the story time, students have the opportunity to ask questions. Shawn's visits educate and inspire kids and adults to appreciate literature and the writing process in a fresh, new way. 
+
+### Reading Packages
+
+- **Package 1**: $350. Reading, Q&A, book signing for 1 group of 2 classes (40 children)
+- **Package 2**: $600. Reading, Q&A, book signing for 2 groups.
+- **Package 3**: $900. Reading, Q&A, book signing for 3 groups.
 
 Email _info@shawnthornbooks.com_ to get in touch.
