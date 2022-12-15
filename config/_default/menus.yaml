@@ -11,6 +11,6 @@ main:
   - name: "About"
     url: '/#about'
     weight: 40
-  - name: 'Readings'
+  - name: 'Contact / Book a Reading'
     url: '/#contact'
     weight: 60
