@@ -37,5 +37,5 @@ Here are some locations Shawn has appeared at:
 - Whistler Children's festival, July 2018
 - Surrey Honeybee Festival, July 2018
 - Pink Shirt Day at Mary Hill Elementary, February 2018
-- Indigo book reading, 2018
+- Indigo book reading, March 2018
 

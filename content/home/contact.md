@@ -8,7 +8,7 @@ weight = 30  # Order that this section will appear.
 title = "Book readings"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "reading_audrey.jpg"
+hero_media = "gym.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
