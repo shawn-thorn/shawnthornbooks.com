@@ -1,4 +1,9 @@
 [[main]]
   name = "Contact"
   url = "#contact"
+  weight = 60
+
+[[books]]
+  name = "Books"
+  url = "#publications"
   weight = 20
