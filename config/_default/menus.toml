@@ -9,11 +9,8 @@ main:
     url: #events
     weight: 30
   - name: "About"
-    url: "#about"
-    weight: 40
-  - name: Book me
     url: #about
     weight: 40
-  - name = "Contact"
-    url = "#contact"
+  - name = Contact
+    url = #contact
     weight = 60
