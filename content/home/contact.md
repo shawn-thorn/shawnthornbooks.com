@@ -36,11 +36,11 @@ hero_media = "maryhill.jpeg"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "mailto:info@shawnthornbooks.com"
-  label = "Send email!"
-  icon_pack = "fas"
-  icon = "download"
+#[cta]
+#  url = "mailto:info@shawnthornbooks.com"
+#  label = "Send email!"
+#  icon_pack = "fas"
+#  icon = "download"
   
 
 # Note. An optional note to show underneath the links.
@@ -52,10 +52,6 @@ Shawn's visits to schools are one of the most rewarding aspects of being an auth
 
 Typically, Shawn's visits are held in the library or multipurpose room where he reads one or more of his stories to the students. His readings are interactive and engaging. At the end of the reading, Shawn will talk about his writing and illustration experience, why he started writing, and his process. At the end of the story time, students have the opportunity to ask questions. Shawn's visits educate and inspire kids and adults to appreciate literature and the writing process in a fresh, new way. 
 
-### Reading Packages
 
-- **Package 1**: $350. Reading, Q&A, book signing for 1 group of 2 classes (40 children)
-- **Package 2**: $600. Reading, Q&A, book signing for 2 groups.
-- **Package 3**: $900. Reading, Q&A, book signing for 3 groups.
 
-Email _info@shawnthornbooks.com_ to get in touch.
+**Email _info@shawnthornbooks.com_ to inquire about a book reading.**
