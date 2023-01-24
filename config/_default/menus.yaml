@@ -14,3 +14,6 @@ main:
   - name: 'Contact / Book a Reading'
     url: '/#contact'
     weight: 60
+  - name: 'FAQ'
+    url: '/FAQ'
+    weight: 70
