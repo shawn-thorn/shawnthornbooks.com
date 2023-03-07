@@ -37,7 +37,7 @@ title = "**Events**"
 **Granville Street - Vancouver, BC.**   
 ~~March 15, 2023~~ (postponed due to their cyber attack. New date TBA)
 
-<img src="Indigo_Reading.png" width=50% height=50%>
+<!-- <img src="Indigo_Reading.png" width=50% height=50%> -->
 
 ### Indigo/Chapters
 
@@ -51,7 +51,7 @@ May 20th and May 21st 2023.
 
 Come join Shawn and the thousands of children who will be attending Whistler's 40th Anniversary Children's Festival. Shawn will have a tent and will be conducting several readings and book signing on both days. See their event schedule to find out times. 
 
-<img src="Children_Festival_2018_day_2.jpg" width=25% height=25%>
+<!-- <img src="Children_Festival_2018_day_2.jpg" width=25% height=25%> -->
 
 # Past Events
 
