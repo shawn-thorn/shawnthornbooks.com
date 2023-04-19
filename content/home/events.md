@@ -35,7 +35,11 @@ title = "**Events**"
 ### Indigo / Chapters
 
 **Granville Street - Vancouver, BC.**   
-~~March 15, 2023~~ (postponed due to their cyber attack. New date TBA)
+May 27, 2023 at 12pm
+
+Come join Shawn Thorn as he introduces his new children's book, First of Many, to the family and friends at Indigo. 
+
+Bring your book with you and Shawn will sign it. 
 
 <!-- <img src="Indigo_Reading.png" width=50% height=50%> -->
 
