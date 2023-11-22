@@ -19,7 +19,7 @@ publication_short: ""
 #abstract: 
 
 # Summary. An optional shortened abstract.
-summary: This anti-bullying story is about a boy who has taunted and teased Mr. Beeze one too many times before the pink bee decides enough is enough.
+summary: This anti-bullying story is about a boy who has taunted and teased Mr. Beeze one too many times before the pink bee decides enough is enough. Impress the morality of acceptance and principles concerning the distinction between right and wrong, as your child explores the world through the enthusiasm of a chase in this exciting and educational journey. From North America to Spain and Italy; from Canada to the Moon.
 
 #tags:
 #- Source Themes

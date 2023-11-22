@@ -1,5 +1,5 @@
 ---
-title: "Upcoming: a fantasy fiction novel"
+title: "In This World: Release Date TBA"
 #date: ""
 doi: ""
 
@@ -52,4 +52,4 @@ projects:
 slides: novel
 ---
 
-Shawn's young adult urban and portal fantasy fiction is about a group of teens who discover a gemstone during a high school camping trip that brings them and their town havoc before they enter a door to a fantasy world. This novel also addresses contemporary topics such as high school, peer pressure, relationships, and coping with the stresses of everyday life in the real world.
+In this YA fantasy novel, six high school students embark on a seemingly ordinary school camping trip to the enchanting landscapes of Costa Rica, brimming with anticipation for the adventures that await. However, their journey takes a dramatic turn when Kass steals a mysterious gemstone, setting in motion a series of events that unleash chaos upon their quiet town. The gem's rightful owner, an enigmatic figure, emerges to reclaim what is theirs. Suddenly, the six teens find themselves thrust into an otherworldly realm, a place of surreal beauty and perilous challenges. To survive and make their way back home, they must navigate this strange new world. As their odyssey unfolds, deep bonds of friendship form, and unexpected romances blossom in the unlikeliest of places. Faced with their deepest fears, the teens unearth newfound strengths and learn to rely on one another to conquer the formidable trials that beset them.

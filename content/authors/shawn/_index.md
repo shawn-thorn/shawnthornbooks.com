@@ -20,11 +20,7 @@ user_groups:
 - Example2
 ---
 
-Shawn spent his career as a child therapist for the past several decades, focusing on cognitive and behavioural therapy. During this time, Shawn wrote dozens of stories and tucked them away in a vault, until recently. His passion for writing has become his forefront and he is excited about producing more stories. 
-
-Shawn Thorn's new book, First of Many, is illustrated by a renowned illustrator, Victor Tavares, who's worked with the likes of Arnold Schwarzenegger, Gary Tubbs and many others. 
-
-Shawn is finishing his first young adult fiction about a group of teens who find a stone that changes their lives forever. With mythological creatures and urban fantasy, the novel takes you on a journey through a series. 
+Shawn Thorn, a seasoned child therapist and educator, nurtured a hidden passion for storytelling within his heart. With decades devoted to shaping young minds, Shawn emerged as a luminary in children's literature, crafting two beloved picture books, Don’t Tease Me. Beeze and First of Many. Now, delving into new realms of young adult fiction, Shawn's enthusiasm surges as he ventures into the domains of fantasy and myth. His latest novel unveils an enthralling saga where a mysterious stone serves as the catalyst for a group of teens, reshaping their destinies amidst fantastical landscapes and otherworldly adventures.
 
 
 # 10 Fun Facts About The Author 

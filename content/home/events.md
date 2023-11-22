@@ -32,6 +32,11 @@ title = "**Events**"
 
 +++
 
+_No upcoming events at this time._
+
+
+# Past Events
+
 ### Indigo / Chapters
 
 **Granville Street - Vancouver, BC.**   
@@ -57,7 +62,7 @@ Come join Shawn and the thousands of children who will be attending Whistler's 4
 
 <!-- <img src="Children_Festival_2018_day_2.jpg" width=25% height=25%> -->
 
-# Past Events
+### Others
 
 - Whistler Children's festival, July 2018
 - Surrey Honeybee Festival, July 2018

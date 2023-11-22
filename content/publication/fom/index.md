@@ -19,7 +19,7 @@ publication_short: ""
 #abstract: .
 
 # Summary. An optional shortened abstract.
-summary: A young girl loses her first tooth, and she is excited to tell her whole family. Maybe the tooth fairy will come to visit her?
+summary: In this story, an excited little girl takes children on a fun and vibrant journey, as she shares her experience of her first tooth falling out with her family and her surprising encounter with the tooth fairy. This story will encourage children to read, dream, imagine, and have fun with this unique childhood experience.
 
 #tags:
 #- Source Themes
