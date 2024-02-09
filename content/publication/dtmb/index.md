@@ -56,7 +56,8 @@ projects:
 #slides: example
 ---
 
-If you enjoy adventure, traveling and the exciting thrill of a chase, you'll love this book. This anti-bullying story is about a boy who has taunted and teased Mr. Beeze one too many times before the pink bee decides enough is enough. Impress the morality of acceptance and principles concerning the distinction between right and wrong, as your child explores the world through the enthusiasm of a chase in this exciting and educational journey. Take your child on an adventure with the peace of mind that they are reading with an eco-friendly and non-toxic book.
+Embark on an exhilarating journey filled with adventure, travel, and the electrifying thrill of a chase. This anti-bullying tale follows a boy who, after taunting and teasing Mr. Beeze one too many times, discovers that enough is enough. As your child explores the world through the lens of this exciting and educational journey, they'll encounter valuable lessons on acceptance, morality, and the distinction between right and wrong. From the snow-capped mountains of BC to the canals of Italy and the serene countryside of Switzerland, the adventure is not only fun but also profoundly enriching.
+
 
 ![](DTMB-9.png)
 

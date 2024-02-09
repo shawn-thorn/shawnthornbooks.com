@@ -20,18 +20,8 @@ user_groups:
 - Example2
 ---
 
-Shawn Thorn, a seasoned child therapist and educator, nurtured a hidden passion for storytelling within his heart. With decades devoted to shaping young minds, Shawn emerged as a luminary in children's literature, crafting two beloved picture books, Don’t Tease Me. Beeze and First of Many. Now, delving into new realms of young adult fiction, Shawn's enthusiasm surges as he ventures into the domains of fantasy and myth. His latest novel unveils an enthralling saga where a mysterious stone serves as the catalyst for a group of teens, reshaping their destinies amidst fantastical landscapes and otherworldly adventures.
+Shawn Thorn, a skilled child therapist and dedicated educator, intricately weaves his love for storytelling with decades of commitment to shaping young minds.
 
+Having risen to acclaim in the world of children's literature, Shawn stands as the creative force behind two beloved picture books: _Don't Tease Mr. Beeze_ and _First of Many_.
 
-# 10 Fun Facts About The Author 
-
-1. Loves to travel, especially to England, Italy, and Mexico 
-2. Has a vizsla dog named Ridley
-3. Loves his cousin Audrey like a daughter
-4. Married to a scientist 
-5. Loves chicken tacos
-6. Plays chess
-7. Favourite animal is an elephant 
-8. Loves to cook 
-9. Dreams of opening a vineyard
-10. Superman is his favourite superhero
+Nestled amidst the forested mountains of North Vancouver, Shawn's home is a canvas painted with the beauty of nature. With his family —- including his affectionate scientist husband, their vibrant five-year-old son, a cherished honorary teen daughter, and the ever-faithful vizsla companion named Ridley —- they revel in the simple joys of life in this scenic haven. Amid encounters with bears as frequent neighbors, Shawn's daily life seamlessly weaves the wild with the familial, creating a captivating narrative of nature and family intertwining.

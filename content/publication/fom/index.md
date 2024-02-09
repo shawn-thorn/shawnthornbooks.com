@@ -56,13 +56,8 @@ projects:
 slides: fom
 ---
 
-**New in December 2022**
+Indulge in the enchantment of _First of Many_ as a young girl eagerly navigates the day after losing her first tooth. Feel her excitement resonate through heartfelt interactions with family members, each offering a unique blend of wisdom, humor, and memorable phrases. Join her on this delightful journey alongside her parents, grandparents, sibling, and beloved dog, also joyfully standing by her side. This classic tale introduces a tooth fairy with a delightful twist, breaking away from tradition in the most endearing way. The story also emphasizes the value of dental hygiene, highlighting the importance of brushing, flossing, and caring for your teeth.
 
-First of Many is about a young girl who loses her first tooth. Her excitement takes her throughout the day expressing her great news to her family members. Each one has words of wisdom, with a comical insight and a catchy phrase. The story includes the classic, although non-traditional looking tooth fairy. 
-
-> "Good morning, young child, I didn't mean to wake you; I am taking your tooth that you have left for me. Your tooth is a gem, as I see you have been brushing it well. I hope you brush the tooth that will grow in its place the same. I have left you something to show you how thankful I am." The tooth fairy said. 
-
-Children usually lose their first tooth around 5 or 6 years old, and their front teeth will often be the first to fall out. This will be the first of many and children will appreciate understanding the developmental process and the importance of dental hygiene, while going on a fun family journey.
 
 
 ![](fom-dad1.jpg)

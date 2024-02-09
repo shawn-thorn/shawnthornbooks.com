@@ -1,5 +1,5 @@
 ---
-title: "In This World: Release Date TBA"
+title: "In This World: Release Date March 4, 2024"
 #date: ""
 doi: ""
 
@@ -52,4 +52,8 @@ projects:
 slides: novel
 ---
 
-In this YA fantasy novel, six high school students embark on a seemingly ordinary school camping trip to the enchanting landscapes of Costa Rica, brimming with anticipation for the adventures that await. However, their journey takes a dramatic turn when Kass steals a mysterious gemstone, setting in motion a series of events that unleash chaos upon their quiet town. The gem's rightful owner, an enigmatic figure, emerges to reclaim what is theirs. Suddenly, the six teens find themselves thrust into an otherworldly realm, a place of surreal beauty and perilous challenges. To survive and make their way back home, they must navigate this strange new world. As their odyssey unfolds, deep bonds of friendship form, and unexpected romances blossom in the unlikeliest of places. Faced with their deepest fears, the teens unearth newfound strengths and learn to rely on one another to conquer the formidable trials that beset them.
+When a group of high school teens —- Kass, Jack, Gab, Harlen, Olivia, and Martin -— set out on a school camping trip to the enchanting landscapes of Costa Rica, little did they know that their adventure would take an unexpected turn. When Kass stumbles upon a mysterious gemstone, he unwittingly unleashes otherworldly creatures that plunge their quiet town into chaos. The six teens find themselves thrust into an unimaginable realm —- a place of surreal beauty and perilous challenges.
+
+As their odyssey unfolds, deep bonds of friendship form, and unexpected romances blossom in the unlikeliest of places. Faced with their deepest fears, the teens discover newfound strengths, learning to rely on one another to overcome the formidable trials that test them during their harrowing expedition. 
+
+In this extraordinary journey, they unravel the latent power within themselves, reshaping destinies and altering lives across the fabric of time in ways they had never dared to imagine.
