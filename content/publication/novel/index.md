@@ -26,7 +26,7 @@ summary: A group of teens discover a gemstone during a high school camping trip 
 #featured: false
 
 links:
-- name: Anticipated release in 2023
+# - name: Anticipated release in 2023
 #  url: https://www.amazon.com/Dont-Tease-Beeze-Shawn-Thorn/dp/1525515888
 
 # Featured image
@@ -52,7 +52,7 @@ projects:
 slides: novel
 ---
 
-When a group of high school teens —- Kass, Jack, Gab, Harlen, Olivia, and Martin -— set out on a school camping trip to the enchanting landscapes of Costa Rica, little did they know that their adventure would take an unexpected turn. When Kass stumbles upon a mysterious gemstone, he unwittingly unleashes otherworldly creatures that plunge their quiet town into chaos. The six teens find themselves thrust into an unimaginable realm —- a place of surreal beauty and perilous challenges.
+When a group of high school teens&#8212;Kass, Jack, Gab, Harlen, Olivia, and Martin&#8212;set out on a school camping trip to the enchanting landscapes of Costa Rica, little did they know that their adventure would take an unexpected turn. When Kass stumbles upon a mysterious gemstone, he unwittingly unleashes otherworldly creatures that plunge their quiet town into chaos. The six teens find themselves thrust into an unimaginable realm&#8212;a place of surreal beauty and perilous challenges.
 
 As their odyssey unfolds, deep bonds of friendship form, and unexpected romances blossom in the unlikeliest of places. Faced with their deepest fears, the teens discover newfound strengths, learning to rely on one another to overcome the formidable trials that test them during their harrowing expedition. 
 
